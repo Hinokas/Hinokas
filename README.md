@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Html, JavaScript, CSS, Ruby on Rails
 - 💞️ I’m looking to collaborate on full-stack developers community
 - 📫 How to reach me www.linkedin.com/in/felipe-sona-3ba74b183
-- 😄 Pronouns: He/Him
 - :rage3: Fun fact: I'm a chaotic soulslike player
 
 <!---
